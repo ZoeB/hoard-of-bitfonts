@@ -2,8 +2,8 @@
 
 name: IBM BIOS EGA/VGA 8x14
 spacing: character-cell
-cell-size: 8x14
-encoding: ascii
+cell-size: 8 14
+encoding: cp437
 source-format: raw
 source-url: https://github.com/spacerace/romfont/raw/refs/heads/master/font-bin/IBM_VGA_8x14.bin and https://github.com/viler-int10h/vga-text-mode-fonts/raw/refs/heads/master/FONTS/PC-IBM/EGA8.F14
 

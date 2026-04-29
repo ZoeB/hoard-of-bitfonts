@@ -2,8 +2,8 @@
 
 name: IBM BIOS VGA 8x16
 spacing: character-cell
-cell-size: 8x16
-encoding: ascii
+cell-size: 8 16
+encoding: cp437
 source-format: raw
 source-url: https://github.com/spacerace/romfont/raw/refs/heads/master/font-bin/IBM_VGA_8x16.bin and https://github.com/viler-int10h/vga-text-mode-fonts/raw/refs/heads/master/FONTS/PC-IBM/VGA8.F16
 
